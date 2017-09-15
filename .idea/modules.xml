@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/pytion_prac/general_operate/.idea/general_operate.iml" filepath="D:/pytion_prac/general_operate/.idea/general_operate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liwenjiansite/.idea/liwenjiansite.iml" filepath="$PROJECT_DIR$/../liwenjiansite/.idea/liwenjiansite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ml_python.iml" filepath="$PROJECT_DIR$/.idea/ml_python.iml" />
+      <module fileurl="file://D:/pytion_prac/python_game/.idea/python_game.iml" filepath="D:/pytion_prac/python_game/.idea/python_game.iml" />
+      <module fileurl="file://D:/pytion_prac/show_me_the_code/.idea/show_me_the_code.iml" filepath="D:/pytion_prac/show_me_the_code/.idea/show_me_the_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorprac/.idea/tensorprac.iml" filepath="$PROJECT_DIR$/../tensorprac/.idea/tensorprac.iml" />
+    </modules>
+  </component>
+</project>
